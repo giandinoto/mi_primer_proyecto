@@ -2,7 +2,7 @@
 
 // SINCRONIZAR CON REPO //  git remote add origin https://github.com/momowalter/mi_primer_proyecto/
 
-// LUEGO (para agregar los archivos al repo) // add .
+// LUEGO (para agregar los archivos al repo) // git add .
 
 // COMMIT // git COMMIT -m "Este es mi commit"
 
